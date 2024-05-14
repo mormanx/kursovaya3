@@ -1,3 +1,5 @@
+
+
 from api_client import HeadHunterAPI
 from storage import JSONVacancyStorage, get_salary
 from vacancy import Vacancy
